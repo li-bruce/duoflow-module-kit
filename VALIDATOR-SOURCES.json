@@ -1,0 +1,14 @@
+{
+  "source_repository": "https://github.com/li-bruce/duoflow-platform",
+  "release": "v0.01",
+  "sources": {
+    "common-platform/app/registry.py": "534552a114de5f3b1465969f1e4989ee955e7d412b937c30d4a717d5cab9bc40",
+    "common-platform/app/access_control.py": "bf0f22fc2245cb49b6b2b801409c556fb0401537857c4d1ba2cb6bb667096aa0",
+    "common-platform/app/remote_services.py": "7c5a12fdb65b907a3a4beb544b34ab5a50d422a2ff1ea291e90533074c411584",
+    "common-platform/app/errors.py": "e7b431feda9f40e0f77f957c8b3365cfeb0a77277b38826f1e14e2f69243ba1e",
+    "common-platform/app/module_contract.py": "501db696c5baa11209a71c2a6570369472535aa5fcd512da0071220d0d52ea01",
+    "common-platform/app/workspace_contract.py": "3bc5350b9c2a5d48360ceb0e2357d0c6118fa2e6b55c77d8c116064527ac0003",
+    "common-platform/app/registration_contract.py": "e663307d96debe6a7514e60ed202c46a89894c33b0517e87a23143005286e4d7",
+    "common-platform/app/state_machines.py": "623809ab6bb0c96f6ab770a8eb8ce6f23138e282c5629f9d02a74e4b80f1cd69"
+  }
+}

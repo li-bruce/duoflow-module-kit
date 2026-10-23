@@ -1,0 +1,1 @@
+DuoFlow 模块开发套件：提供接入协议、Python/Node SDK、模块模板、校验工具与 duoflow-module Skill，衔接 business-observer 业务建模和持续验证。
