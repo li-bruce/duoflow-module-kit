@@ -3,12 +3,12 @@
   "release": "v0.02",
   "sources": {
     "common-platform/app/registry.py": "534552a114de5f3b1465969f1e4989ee955e7d412b937c30d4a717d5cab9bc40",
-    "common-platform/app/access_control.py": "742ba0f40f7cd4e228d24f48038380c2de564e2353a262ba7af1621bcd256065",
-    "common-platform/app/remote_services.py": "08393729fc9def10e6755e8f42dbd40981b963cb43c27337170a29a793bef97f",
+    "common-platform/app/access_control.py": "9e3f1318369748b4a390daebb60253bbf333c6cce07d3a3fdd00ab4953040ad4",
+    "common-platform/app/remote_services.py": "c240ab8b35a4d9a55858bff366002e8fbe4149427c766124047ed700cf9086a4",
     "common-platform/app/errors.py": "e7b431feda9f40e0f77f957c8b3365cfeb0a77277b38826f1e14e2f69243ba1e",
     "common-platform/app/module_contract.py": "501db696c5baa11209a71c2a6570369472535aa5fcd512da0071220d0d52ea01",
     "common-platform/app/workspace_contract.py": "3bc5350b9c2a5d48360ceb0e2357d0c6118fa2e6b55c77d8c116064527ac0003",
-    "common-platform/app/registration_contract.py": "db0d70ebabab523c3e948600c89051e44a1926038a57dc9e00572601fd29ed76",
+    "common-platform/app/registration_contract.py": "c1d867d58bf18b455ad6ccb1ac3866f92bb89489e61e1edefbcb71dfb9c607af",
     "common-platform/app/state_machines.py": "623809ab6bb0c96f6ab770a8eb8ce6f23138e282c5629f9d02a74e4b80f1cd69",
     "common-platform/app/module_graph.py": "d307e0efe83ef43774dabc870dc7aa40dee6842ff2466ae63424d24c21fccf67",
     "common-platform/app/flow_exports.py": "edce3229c862481a73e37d63e652ce442ccb779a42e4bc723346a5c12214a275"
