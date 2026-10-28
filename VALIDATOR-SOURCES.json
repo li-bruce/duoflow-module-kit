@@ -8,7 +8,8 @@
     "common-platform/app/errors.py": "e7b431feda9f40e0f77f957c8b3365cfeb0a77277b38826f1e14e2f69243ba1e",
     "common-platform/app/module_contract.py": "501db696c5baa11209a71c2a6570369472535aa5fcd512da0071220d0d52ea01",
     "common-platform/app/workspace_contract.py": "3bc5350b9c2a5d48360ceb0e2357d0c6118fa2e6b55c77d8c116064527ac0003",
-    "common-platform/app/registration_contract.py": "c1d867d58bf18b455ad6ccb1ac3866f92bb89489e61e1edefbcb71dfb9c607af",
+    "common-platform/app/registration_contract.py": "e4907719953924bf75517e69e3a3c5cfa24a7a6120fcca0c8c485a472b1d435f",
+    "common-platform/app/coordination_contract.py": "4e9b94b0b9531d3bdd5eb8b9be6d86ba7e91bc2c9510af665f6ae3fccd103f8e",
     "common-platform/app/state_machines.py": "623809ab6bb0c96f6ab770a8eb8ce6f23138e282c5629f9d02a74e4b80f1cd69",
     "common-platform/app/module_graph.py": "d307e0efe83ef43774dabc870dc7aa40dee6842ff2466ae63424d24c21fccf67",
     "common-platform/app/flow_exports.py": "edce3229c862481a73e37d63e652ce442ccb779a42e4bc723346a5c12214a275"
